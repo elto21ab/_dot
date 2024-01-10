@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "Based on the evaluations and scenarios, rank the solutions in order of promise. Provide a justification for each ranking and offer any final thoughts or considerations for each solution.",
+    "uid" : "DC976068-C253-41CA-976A-E00645724769",
+    "name" : "Tree of Thought - Step 4",
+    "keyword" : "TOT4"
+  }
+}

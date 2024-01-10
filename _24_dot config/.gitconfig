@@ -1,0 +1,10 @@
+[http]
+	postBuffer = 524288000
+[core]
+	compression = 1
+
+
+
+git config --global user name "ET"
+git config --global user.email "elto21ab@student.cbs.dk"
+git config --global github.user "elto21ab"

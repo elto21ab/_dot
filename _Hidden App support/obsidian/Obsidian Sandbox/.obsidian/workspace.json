@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "7d9811cde94d6dca",
+    "type": "split",
+    "children": [
+      {
+        "id": "67f5ebc362a13ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65b93e9e8d833568",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aaa411f98f5006f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c145011b9cdc4261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e4caa76fd1b183c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c12a13bd9160124c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2befa2b7213097c7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5010801a6e2796ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e0bebcbf4aa926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968a5e9eccb0cce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4413480afb2e9d76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06d464b03ec61bad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b32a4975fe3e3180",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65b93e9e8d833568",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "2023-01-25.md",
+    "Vault is just a local folder.md",
+    "Start Here.md",
+    "Plugins make Obsidian special for you.md",
+    "Guides/Link notes.md",
+    "Guides/Get started with Obsidian.md"
+  ]
+}

@@ -1,0 +1,29 @@
+[font]
+size = 16.0
+
+[font.normal]
+family = "Hack Nerd Font Mono"
+style = "Regular"
+
+[font.bold]
+family = "Hack Nerd Font Mono"
+style = "Bold"
+
+[font.italic]
+family = "Hack Nerd Font Mono"
+style = "Italic"
+
+[cursor.style]
+shape = "Beam"
+
+[window]
+decorations = "Buttonless"
+
+opacity = 0.9
+blur = true
+
+option_as_alt = "OnlyRight"
+
+[shell]
+program = "/opt/homebrew/bin/zsh"
+

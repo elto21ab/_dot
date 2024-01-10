@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toolbar:toolbar PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "toolbar.dtd">
+<toolbar:toolbar xmlns:toolbar="http://openoffice.org/2001/toolbar" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <toolbar:toolbaritem xlink:href=".uno:InsertSlide" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:DuplicateSlide"/>
+ <toolbar:toolbaritem xlink:href=".uno:RenameSlide" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:DeleteSlide" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:AssignLayout"/>
+ <toolbar:toolbaritem xlink:href=".uno:PresentationLayout" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ExpandPage" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:FirstSlide" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:PreviousSlide" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:NextSlide" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:LastSlide" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:MoveSlideFirst" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:MoveSlideUp" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:MoveSlideDown" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:MoveSlideLast" toolbar:visible="false"/>
+</toolbar:toolbar>

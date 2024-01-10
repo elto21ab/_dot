@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "Let's navigate [complex topic] through the eyes of three different experts. We start with each one expressing their initial insights, followed by iterative steps based on their unique perspectives. Consistent checks are integral – if an expert recognizes a flaw in their hypothesis, they stop contributing and regroup their thoughts before returning to provide a newly optimized approach.",
+    "uid" : "A45C3664-9C05-4CA4-808A-6AB114E0EC43",
+    "name" : "ToT + Reprompt",
+    "keyword" : "tr2"
+  }
+}

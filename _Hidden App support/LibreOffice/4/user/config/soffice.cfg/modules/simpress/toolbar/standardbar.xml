@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE toolbar:toolbar PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "toolbar.dtd">
+<toolbar:toolbar xmlns:toolbar="http://openoffice.org/2001/toolbar" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <toolbar:toolbaritem xlink:href=".uno:OpenUrl" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:AddDirect" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Open" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:OpenRemote" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Save" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:SaveAs" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:SendMail" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:EditDoc" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:NewDoc"/>
+ <toolbar:toolbaritem xlink:href=".uno:ExportDirectToPDF"/>
+ <toolbar:toolbaritem xlink:href=".uno:PrintDefault" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Print" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Presentation" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:PresentationCurrentSlide"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:Cut" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Copy" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Paste" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:FormatPaintbrush"/>
+ <toolbar:toolbaritem xlink:href=".uno:SetDefault" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:Undo" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Redo" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:SearchDialog"/>
+ <toolbar:toolbaritem xlink:href=".uno:SpellDialog"/>
+ <toolbar:toolbaritem xlink:href=".uno:SpellOnline"/>
+ <toolbar:toolbaritem xlink:href=".uno:ZoomMode" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ZoomToolBox" toolbar:visible="false"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:GridVisible"/>
+ <toolbar:toolbaritem xlink:href=".uno:GridUse"/>
+ <toolbar:toolbaritem xlink:href=".uno:HelplinesUse" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:HelplinesMove" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ToggleTabBarVisibility" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:SlideSetup" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:DisplayMode"/>
+ <toolbar:toolbaritem xlink:href=".uno:SlideMasterPage"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertTable"/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertGraphic" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertAVMedia" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertObjectChart"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:Text" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:VerticalText" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:FontworkGalleryFloater" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:HyperlinkDialog" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ObjectPosition"/>
+ <toolbar:toolbaritem xlink:href=".uno:AutoRedactDoc" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:AutoCorrectDlg" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:AutoFilter" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:TextAutoFitToSize" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:AutoControlFocus" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ChangeCaseToTitleCase" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ArrowShapes"/>
+ <toolbar:toolbaritem xlink:href=".uno:LineEndStyle" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:Connector" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ConnectorCurveArrowEnd"/>
+ <toolbar:toolbaritem xlink:href=".uno:ConnectorLinesArrowEnd" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:InsertDraw"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:CharmapControl" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:FontHeight"/>
+ <toolbar:toolbaritem xlink:href=".uno:DecrementIndent" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:LeftPara"/>
+ <toolbar:toolbaritem xlink:href=".uno:ObjectAlignLeft"/>
+ <toolbar:toolbarseparator/>
+ <toolbar:toolbaritem xlink:href=".uno:AnimationEffects" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:HelpIndex" toolbar:visible="false"/>
+ <toolbar:toolbaritem xlink:href=".uno:ExtendedHelp" toolbar:visible="false"/>
+</toolbar:toolbar>

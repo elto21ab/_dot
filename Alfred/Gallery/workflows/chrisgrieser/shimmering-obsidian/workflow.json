@@ -1,0 +1,47 @@
+{
+  "timestamps": {
+    "added": 1680795195,
+    "modified": 1682101006
+  },
+  "bundleIDs": [
+    "de.chris-grieser.shimmering-obsidian"
+  ],
+  "name": "Shimmering Obsidian",
+  "description": "Interact with Obsidian",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/chrisgrieser/shimmering-obsidian/releases.atom",
+    "state": "W/\"61b0555be699dcb54f2f7728e67e35c1\""
+  },
+  "links": {
+    "homepage": "https://github.com/chrisgrieser/shimmering-obsidian/",
+    "bugReports": "https://github.com/chrisgrieser/shimmering-obsidian/issues/",
+    "alfredForum": "https://www.alfredforum.com/topic/19355-shimmering-obsidian/"
+  },
+  "download": {
+    "latest": {
+      "version": "3.9.4",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/9abe12c9cbaaa651dc300014a010171d6d9ff868/workflows/chrisgrieser/shimmering-obsidian.alfredworkflow",
+      "signature": "Tg8KYhbvWn0u2sdtg3n9qrqqJh3+rgh/lPq2McQwOqlXdrTOr8D1/SYRZJvKPWGJePjfk4ODE+Y2YSyg0HzxDrmqbeKpO9Evd8GOeglfbqcMYZiFIeaYZgEbnrPlBJ4j08viynnAZorGDfeVBCqJ57LniOKzXb1yfy/UQO+ZzXZrQaNSrg6YhRH2E39ePG13YckaemfJkPp2ExwVEYHzOW/Qxf/VwFAGSqV6+WMUjK4/NZQ7CePZU36mmFN1zh0MxKCAHYXe7DrqlLwz5ZafY8Z6zPrj/oQucI+D4iH1vGNlK8ORoqijHnHIL/3C+jEnriNVOf+yIDtxJzX/J8427gloM6mafbrX5PUULTJnH3HttSfoXXbLzB8/sSs1OIWPPk+AINexsrIxN52sElFwSOUutSW+il1JQiylnSQ0urUJ4eGWlm/ePIdLZKoNhzIEe5YosHyCJm/Txa20MUIWjQ9Yw/gJ2N9htIT0c737YZ4OoyBdnBYf0SDs5OxAJk/iQ8ntQscmnPzMvVI+H/AA2IgKzFYUao51m/Gs4nw2gsJAS7vgoVZfhzzWxKd3IUIoP4UCOevasM/5s5R7eEZ/fcM7Qx6z0mFNNspP6MxnygNl+An9NgCuFIhgkiS3lXHTGKxgRwFRNrcbVpcKcAq7ZyMSKZ13oyDe9r7MxS8/3ek="
+    }
+  },
+  "tags": [
+    "featured",
+    "notes"
+  ],
+  "dependencies": {
+    "otherLanguages": [
+      "osascript (jxa)"
+    ],
+    "apps": [
+      {
+        "name": "Obsidian",
+        "url": "https://obsidian.md",
+        "bundleIDs": [
+          "md.obsidian"
+        ]
+      }
+    ]
+  },
+  "alfredTeamNote": "Consult the Workflow’s website for the full feature set and documentation."
+}

@@ -1,0 +1,52 @@
+{
+  "timestamps": {
+    "added": 1676924292,
+    "modified": 1682088071
+  },
+  "bundleIDs": [
+    "ai.lemke.chatfred"
+  ],
+  "name": "ChatFred",
+  "description": "Access ChatGPT, DALL·E 2, and other OpenAI models",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/chrislemke/ChatFred/releases.atom",
+    "state": "W/\"cf4d44d1ca7de259c743b00039829d44\""
+  },
+  "links": {
+    "homepage": "https://github.com/chrislemke/ChatFred/",
+    "bugReports": "https://github.com/chrislemke/ChatFred/issues/",
+    "alfredForum": "https://www.alfredforum.com/topic/19937-chatfred"
+  },
+  "download": {
+    "latest": {
+      "version": "1.5.0",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/a613118685e27b37951baebd50667400a54712f9/workflows/chrislemke/chatfred.alfredworkflow",
+      "signature": "GQX7WAu9J2iGO3mP1e5YI2aQhm06pv5+s+P83U+8zYy2yJVsyB6bBEOp1aKxE2tJWmQ60cW9Iuo/sTeclQMsPvTW3kTxmd5G3NLitcM0DXumRwOLNqrqCf1pufoaaxWI5apk/ivRLjpOFKad4hBNs+TXHkHVwc6yIGLjXdzZSkPNIDNUCsD+xaYOWW2eM872xZTr6LHZB0vhtwDhPA2tC+l76/58/uSrxKCat9NeMPcj8R78v3oRQl99xZVO+g+gNzeahsaerthACX0ll3XOAE7bijcZ9Vpf5sMaHBXivR3/Vy1PJSdpRn8lXmw6UXU73tDbPcNa5iSPP1z6STIA14LfVg/dsyFnEWIH0lrUid6k+jFoqRmYO6Gw/AigEq/LuqgVEOV/OGC0vgqdb2ZWxqF87wJrz4w4kqyJgB96OayvMyprho+dxnmsKIDvyvOMtUSk49siTFyhNSvY5LwL0rmjOz7F6ruhsXIKnxvL0/LiEL1W7mwRQ+esOFL43W6DLdsYkdpcFMRNA/CSXsL9OEfSbdSCOSi5VYNOf4M0fC9CboeJdtx0vYEfaVUxZE2DJM3nf06KuTxjwFu7ZEdKHR8o41ZI8LLb7Hi8l+XgtcsJvMB8xuKJDpt2tXO0BynKmlFKnY+xrh1wNKR0BXroRoVFyp1FMEHHRyB+Pod+ByE="
+    }
+  },
+  "tags": [
+    "featured",
+    "gpt",
+    "dall-e",
+    "ai"
+  ],
+  "dependencies": {
+    "otherLanguages": [
+      "python3"
+    ],
+    "apiKeys": [
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/api/"
+      }
+    ],
+    "libraries": {
+      "python": [
+        "openai",
+        "typing-extensions"
+      ]
+    }
+  },
+  "alfredTeamNote": "Language models often give wrong information. Verify answers if they are important."
+}

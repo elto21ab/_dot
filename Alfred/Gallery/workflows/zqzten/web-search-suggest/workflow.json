@@ -1,0 +1,35 @@
+{
+  "timestamps": {
+    "added": 1672682242,
+    "modified": 1672841648
+  },
+  "bundleIDs": [
+    "com.akikoz.alfred.websearchsuggest"
+  ],
+  "name": "Web Search Suggest",
+  "description": "Get in-line web search suggestions",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/zqzten/alfred-web-search-suggest/releases.atom",
+    "state": "W/\"82f07f44d50562a6de66ac8d5354607c\""
+  },
+  "links": {
+    "homepage": "https://github.com/zqzten/alfred-web-search-suggest/",
+    "bugReports": "https://github.com/zqzten/alfred-web-search-suggest/issues/"
+  },
+  "download": {
+    "latest": {
+      "version": "1.20",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/8c93a073b4815ab46935464b866c15483094b6e1/workflows/zqzten/web-search-suggest.alfredworkflow",
+      "signature": "Xl5wuAlcKrhCBfJUFsFpwfJDlmJ5eaxPFpIqH8kalhmu/d1kZiwG8fpDHaZY7A4pVREh7M8auQVJcOqlRrg4nsTVLzDxn17GNg75tHcsIMXxcwrNk3erJXNokeavjKq45b7eEDqs1xo5RPKcaRLJEC1rBCZL42N7ZRsEM7eVPL7q6ZbgWOsefUuLHGKwiwkYMqRQZ23BiDG9FV2H9ebJZJDYuHkPi4sigD87zleYzXW0HPwiv6yvZFJsj91q7ZafwyAbG7qbC+H6AsAgkFFCTbgZn7Eoq6dOlBFyAN6w+X4I0oF+WZ/PrWRxBH/S3f1K9q5BSTxS06Kkbxtc0tiuIylt4NEvEyns+irbO2XwADA4iGDWIQP6pBG30J7Rgv2NvVsJIzE77H85IK8Q6JZp3haiNqcE27xNEHR9wF8x+EDxJUxRmGWHxWL0xZZRCgCfLExuJJV0vszo2zzmMMwGokGT03VSzAaWjgTnuxnlYziZ4wV9MTWmEnZz8yg1tfHxbCBnBJa2Xd1EoA8tKSEiAKbAGQMve/Zij+QvrxA6ebKbygwMuhyZCjDOraq10K9WavISZhYSDyYKEjU8zOTLX/+oGO4xAD/88u/2aNXn3sBk1jMPxzLt8P7UXzZ2M3byaPWVNR87uTqZN+ueY/t4eTOCkFv37XmeeE7sXjpSIJY="
+    }
+  },
+  "tags": [
+    "web-search"
+  ],
+  "dependencies": {
+    "formulae": [
+      "php"
+    ]
+  }
+}

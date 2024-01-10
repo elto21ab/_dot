@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "Let's unravel [complex topic] through the lens of three experts with differing viewpoints. Each expert shares their initial thoughts, followed by progressive steps based on their distinct approach. The key is limiting discussion to ideas they're confident about - if a flaw in their thinking emerges, that expert ceases participation.",
+    "uid" : "14D17E86-073E-4FE4-9990-829887981971",
+    "name" : "ToT + Reprompting",
+    "keyword" : "tr1"
+  }
+}

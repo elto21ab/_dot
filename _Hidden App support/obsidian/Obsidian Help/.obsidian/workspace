@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "3cc6ecf015aac6a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5140952225ac723a",
+        "type": "leaf",
+        "dimension": 64.77272727272727,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Advanced topics/Accepted file formats.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1a76fa7a133cbc80",
+        "type": "split",
+        "dimension": 35.22727272727273,
+        "children": [
+          {
+            "id": "72f060f0aed3c54d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "032b31a0d705996f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "500cf193770e51df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2cdb45e33b3bd9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8268e69a59b7968e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "78eaf099942fab52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61d1cd431c74bea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce5576a7abf53a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81ad70057a2c9f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "032b31a0d705996f",
+  "lastOpenFiles": [
+    "Plugins/Core plugins.md",
+    "Advanced topics/Accepted file formats.md",
+    "Attachments/Engelbart.jpg",
+    "Attachments/Backlinks.png",
+    "Advanced topics/How Obsidian stores data.md",
+    "Advanced topics/Drag and Drop.md",
+    "Advanced topics/Deleting files.md",
+    "Advanced topics/Customizing CSS.md",
+    "Advanced topics/Contributing to Obsidian.md",
+    "Licenses & add-on services/Obsidian Publish.md"
+  ]
+}

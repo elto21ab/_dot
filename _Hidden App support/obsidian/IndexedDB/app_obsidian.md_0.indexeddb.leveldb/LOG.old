@@ -1,0 +1,14 @@
+2023/10/18-20:20:09.014 a903 Reusing MANIFEST /Users/eliastorjani/Library/Application Support/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/18-20:20:09.016 a903 Recovering log #1693
+2023/10/18-20:20:09.038 a903 Reusing old log /Users/eliastorjani/Library/Application Support/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/001693.log 
+2023/10/18-20:20:09.175 fb03 Level-0 table #1699: started
+2023/10/18-20:20:09.205 fb03 Level-0 table #1699: 1008242 bytes OK
+2023/10/18-20:20:09.213 fb03 Delete type=0 #1693
+2023/10/18-20:20:09.369 a903 Compacting 1@1 + 2@2 files
+2023/10/18-20:20:09.403 a903 Generated table #1700@1: 12731 keys, 2168128 bytes
+2023/10/18-20:20:09.414 a903 Generated table #1701@1: 2394 keys, 513997 bytes
+2023/10/18-20:20:09.414 a903 Compacted 1@1 + 2@2 files => 2682125 bytes
+2023/10/18-20:20:09.422 a903 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/10/18-20:20:09.423 a903 Delete type=2 #1696
+2023/10/18-20:20:09.423 a903 Delete type=2 #1695
+2023/10/18-20:20:09.423 a903 Delete type=2 #1699

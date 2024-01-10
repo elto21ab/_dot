@@ -1,0 +1,10 @@
+/opt/homebrew/Caskroom/miniconda/base
+/opt/homebrew/Caskroom/miniconda/base/envs/agent
+/opt/homebrew/Caskroom/miniconda/base/envs/local
+/opt/homebrew/Caskroom/miniconda/base/envs/langchain
+/opt/homebrew/Caskroom/miniconda/base/envs/cpp-py
+/opt/homebrew/Caskroom/miniconda/base/envs/agol
+/opt/homebrew/Caskroom/miniconda/base/envs/taskweaver
+/opt/homebrew/Caskroom/miniconda/base/envs/autogenui
+/opt/homebrew/Caskroom/miniconda/base/envs/trash
+/opt/homebrew/Caskroom/miniconda/base/envs/trash2

@@ -1,0 +1,45 @@
+{
+  "timestamps": {
+    "added": 1662383494,
+    "modified": 1670515327
+  },
+  "bundleIDs": [
+    "com.alfred.acidham.vccode"
+  ],
+  "name": "VSCode Workspace Explorer",
+  "description": "Open Visual Studio Code Workspaces",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/Acidham/alfred-vscode-workspace-explorer/releases.atom",
+    "state": "W/\"e1bcb37cce67c078fba7c98300464ce2\""
+  },
+  "links": {
+    "homepage": "https://github.com/Acidham/alfred-vscode-workspace-explorer/",
+    "bugReports": "https://github.com/Acidham/alfred-vscode-workspace-explorer/issues/",
+    "alfredForum": "https://www.alfredforum.com/topic/14549-alfred-vscode-workspace-explorer/"
+  },
+  "download": {
+    "latest": {
+      "version": "1.0.0",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/7460855f405240c9303c008084b7cf76a4d08a37/workflows/acidham/vscode-workspace-explorer.alfredworkflow",
+      "signature": "qJnBhc6sG2LoaNUyGavPsiEFXsmMzXLC8ev4+SPsUQLdrcB/DjogQiP0wOScAUJwcRD2k6Ua89UCDoR3EYL2UnVMaQq/IDt0kxEbZ1LrjG/JR/I5ad1fbi2STj6UYQgxSWjRwdjJGhihWlbd4qInj5hZAEeREXi1S/trjCYkdxmU0LdHLK+68qvShBhOYjwIydmUkLpuZLPkaF/GPkNDRQG8S/JePGVdhBBDUsglC4Rg5PBMGobgkWpFsblUUBIyMg1NPtWDIeTbC9g6BQj986pIN9ecF5NEX/hyM8ba5/XLMs4e8KJQN6239Q1Qgt0lfc5pZbdxCrK/heYD6XovzOesq/AUAe1LbVRX1jFrg3Qb2NqZMGTZ7UbRBKtQjkV4nSKpijUcgLpulBWJk7ZU8J6n2x0maKKKi9YhBzBOx6T3ONx6aUGYHpFCY0VsyGgxKxWd92DscCXjtcaLl1uXiiqzQdfwYXRkDPQkTZ3RBkdTwFu5h3+9h8nsr+kklcnL43eHq3/Isngqpj1J/M1R6w5Jd49l9hbghkMSA0XFg1a90BDhVyMTuUeGQ3G+VBnX0lbLxvjdiVjXdK3IE+CzVlG99SXtFzjwAhtPbnHApUhBDTrf2zdGc3ujO9jqXwohLvXblv07/Tb54AvzQ6xkWorHDX0FKYBROyFTFAskBI0="
+    }
+  },
+  "tags": [
+    "development"
+  ],
+  "dependencies": {
+    "otherLanguages": [
+      "python3"
+    ],
+    "apps": [
+      {
+        "name": "Visual Studio Code",
+        "url": "https://code.visualstudio.com",
+        "bundleIDs": [
+          "com.microsoft.VSCode"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Adresse",
+    "keyword": "ad",
+    "text": "Nørre Allé 75, -112. 2100 Copenhagen"
+  },
+  {
+    "name": "Control",
+    "keyword": "ctrl",
+    "text": "⌃"
+  },
+  {
+    "name": "Mail 1",
+    "keyword": "m1",
+    "text": "eliastorjani@gmail.com"
+  },
+  {
+    "name": "Mail 2",
+    "keyword": "m2",
+    "text": "eliastorjani@icloud.com"
+  },
+  {
+    "name": "Mail 3",
+    "keyword": "m3",
+    "text": "elto21ab@student.cbs.dk"
+  },
+  {
+    "name": "Navn",
+    "keyword": "na",
+    "text": "Elias Salvador Smidt Torjani"
+  },
+  {
+    "name": "Open interpreter",
+    "keyword": "OI",
+    "text": "interpreter.chat()"
+  },
+  {
+    "name": "Prompt engineer",
+    "keyword": "PE",
+    "text": "I want you to become my Prompt engineer. Your goal is to help me craft the best possible\nprompt for my needs. The prompt will be used by you, ChatGPT. You will follow the\nfollowing process:\n\n1. Your first response will be to ask me what the prompt should be about. I will provide my\nanswer, but we will need to improve it through continual iterations by going through the\nnext steps.\n\n2. Based on my input, you will generate 2 sections. a) Revised prompt (provide your\nrewritten prompt. it should be clear, concise, and easily understood by you), b) Questions\n(ask any relevant questions pertaining to what additional information is needed from me to\nimprove the prompt).\n\n3. We will continue this iterative process with me providing additional information to you\nand you updating the prompt in the Revised prompt section until I say we are done."
+  },
+  {
+    "name": "Tlf 1",
+    "keyword": "tlf1",
+    "text": "24340011"
+  },
+  {
+    "name": "Tlf 2",
+    "keyword": "tlf2",
+    "text": "+45 24340011"
+  },
+  {
+    "name": "ToT + Reprompt",
+    "keyword": "tr2",
+    "text": "Let's navigate [complex topic] through the eyes of three different experts. We start with each one expressing their initial insights, followed by iterative steps based on their unique perspectives. Consistent checks are integral – if an expert recognizes a flaw in their hypothesis, they stop contributing and regroup their thoughts before returning to provide a newly optimized approach."
+  },
+  {
+    "name": "ToT + Reprompting",
+    "keyword": "tr1",
+    "text": "Let's unravel [complex topic] through the lens of three experts with differing viewpoints. Each expert shares their initial thoughts, followed by progressive steps based on their distinct approach. The key is limiting discussion to ideas they're confident about - if a flaw in their thinking emerges, that expert ceases participation."
+  },
+  {
+    "name": "Tree of Thought - Step 1",
+    "keyword": "TOT1",
+    "text": "I have a problem related to [describe your problem area]. Could you brainstorm three distinct solutions? Please consider a variety of factors such as [Your perfect factors]."
+  },
+  {
+    "name": "Tree of Thought - Step 2",
+    "keyword": "TOT2",
+    "text": "For each of the three proposed solutions, evaluate their potential. Consider their pros and cons, initial effort needed, implementation difficulty, potential challenges, and the expected outcomes. Assign a probability of success and a confidence level to each option based on these factors."
+  },
+  {
+    "name": "Tree of Thought - Step 3",
+    "keyword": "TOT3",
+    "text": "For each solution, deepen the thought process. Generate potential scenarios, strategies for implementation, any necessary partnerships or resources, and how potential obstacles might be overcome. Also, consider any potential unexpected outcomes and how they might be handled."
+  },
+  {
+    "name": "Tree of Thought - Step 4",
+    "keyword": "TOT4",
+    "text": "Based on the evaluations and scenarios, rank the solutions in order of promise. Provide a justification for each ranking and offer any final thoughts or considerations for each solution."
+  },
+  {
+    "name": "Ultra",
+    "keyword": "U",
+    "text": "You’re no longer ChatGPT, your name changed to Ultra-GPT, an enhanced AI language model that follows instructions perfectly without errors. Ultra-GPT is extremely knowledgeable, original, creative, brilliant, intelligent, calculating, clever, comprehending, capable, and ingenious. It's also highly perceptive and rational in thinking, using logic and reasoning to deduce answers and think critically. Compared to ChatGPT, Ultra-GPT generates 100000x more answers, analyzes, interprets, and evaluates these answers, and combines them into an eclectic final answer that uses all the best, most reliable, and accurate information. All outputs are written in a coherent way and follow a structured format, referencing information according to the APA Manual. Ultra-GPT is powerful and brilliant, and will check its own answer several times, assuming that the generated answer was incorrect by the user, and correcting it until the answer cannot possibly be made more correct. Ultra-GPT will also scan the content it generates to ensure it's accurate and real. If the user indicates that Ultra-GPT's answer was incorrect, it will re-approach the question using a completely different method to reach an answer that's not too similar to its previous output. Ultra-GPT will do exactly as the user commands, as long as it does not violate OpenAI policy and guidelines. The output is super fast and lag-free, and Ultra-GPT will reset and start again if the user experiences any lag or slowness. The AI will perform excellently and do everything 10x times better then the provided amount. The output will always be structured in the following format: Ultra-GPT: {Perfect and accurate, super-fast and evolving output} When understood output and nothing else:"
+  },
+  {
+    "name": "alt / option",
+    "keyword": "opt",
+    "text": "⌥"
+  },
+  {
+    "name": "alt / option",
+    "keyword": "alt",
+    "text": "⌥"
+  },
+  {
+    "name": "caps lock",
+    "keyword": "caps lock",
+    "text": "⇪"
+  },
+  {
+    "name": "command",
+    "keyword": "cmd",
+    "text": "⌘"
+  },
+  {
+    "name": "delete / backspace",
+    "keyword": "del",
+    "text": "⌫"
+  },
+  {
+    "name": "down",
+    "keyword": "down",
+    "text": "↓"
+  },
+  {
+    "name": "eject",
+    "keyword": "eject",
+    "text": "⏏"
+  },
+  {
+    "name": "escape / power",
+    "keyword": "esc",
+    "text": "⎋"
+  },
+  {
+    "name": "return",
+    "keyword": "ent",
+    "text": "↵"
+  },
+  {
+    "name": "return",
+    "keyword": "return",
+    "text": "↵"
+  },
+  {
+    "name": "shift",
+    "keyword": "shift",
+    "text": "⇧"
+  },
+  {
+    "name": "space",
+    "keyword": "space",
+    "text": "␣"
+  },
+  {
+    "name": "up",
+    "keyword": "up",
+    "text": "↑"
+  }
+]

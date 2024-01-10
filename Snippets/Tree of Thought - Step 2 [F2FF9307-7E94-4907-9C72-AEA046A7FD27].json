@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "For each of the three proposed solutions, evaluate their potential. Consider their pros and cons, initial effort needed, implementation difficulty, potential challenges, and the expected outcomes. Assign a probability of success and a confidence level to each option based on these factors.",
+    "uid" : "F2FF9307-7E94-4907-9C72-AEA046A7FD27",
+    "name" : "Tree of Thought - Step 2",
+    "keyword" : "TOT2"
+  }
+}

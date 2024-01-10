@@ -1,0 +1,32 @@
+{
+  "timestamps": {
+    "added": 1610723569,
+    "modified": 1679433483
+  },
+  "bundleIDs": [
+    "com.alfredapp.vitor.aliashomebrewapps",
+    "com.alfredapp.aliashomebrewapps"
+  ],
+  "name": "Alias Homebrew Apps",
+  "description": "Create shortcuts to Homebrew formula app bundles",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/alfredapp/alias-homebrew-apps-workflow/releases.atom",
+    "state": "W/\"16f7d5768dccff0b72ef7544164f0200\""
+  },
+  "links": {
+    "homepage": "https://github.com/alfredapp/alias-homebrew-apps-workflow/",
+    "bugReports": "https://github.com/alfredapp/alias-homebrew-apps-workflow/issues/",
+    "alfredForum": "https://www.alfredforum.com/topic/18181-alias-homebrew-apps"
+  },
+  "download": {
+    "latest": {
+      "version": "2023.2",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/f88fcac44e36a68e3da5b91bd12a130374f60da2/workflows/alfredapp/alias-homebrew-apps.alfredworkflow",
+      "signature": "JQdXVLl6i6AXYjJ2sJdRQITVvpxG10ueAPue8Zg4/+pY+DQ4jwKR6kglAXMfkEHzyNqQ6BKnt5qP+bOStwYNqYpFmZq5N8YOpHPciF/oNGtkyCUkUnMMXCD6zMaLwZUcs4dWV5bXW8zRMj8pubAELOd6+93ljVsGF7X+Oa4GRTIVB3nxPiIIPizQggr0OzrHPhdCQaWGKm3g2Z8aQT41IfDka/peIRqJRi1j7GDNXTJVscdWA8RRuQAFH6wXBmZrHWQlGuJo4z61vAmuUNo21Oaw+gMjBvZ6F3ynt8T81T1A63BlQ0HYkL71zR6FmCdJIgVuqfWkl/yGh+IrUtxdREnLvV1t+NUeNIBKiCBTQAeuSxwRGHCnnigI9SGIrHchIewMCW+99DswGbuOV5d694B8oBpYJU6+oj3c1ikO68j7JrQe6dd3LQQXLKUn3kQH5+wUBBZFjdMcL9Xc5DJRT4abBqVJd1dqW2A51mgW44FB4YAolnUBC0VJi7nAbr4eSakSFjsdxi44qT/8E7QnTK8Xys8xcNukOdcAt1ZARWxydxFEWk9lavcIG1WP+YvDm6PRSNjU8NH/OU0fNCK6dxacxKJwXNKMivrVOleePTRL3WBgzsf+dVq30pelkhiPwHwkAd5oFuIq//s8U2+bbfGavHswJCh8K8dJUGzfuxM="
+    }
+  },
+  "tags": [
+    "package-management"
+  ]
+}

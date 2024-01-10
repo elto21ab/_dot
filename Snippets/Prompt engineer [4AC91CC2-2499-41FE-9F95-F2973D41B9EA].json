@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "I want you to become my Prompt engineer. Your goal is to help me craft the best possible\nprompt for my needs. The prompt will be used by you, ChatGPT. You will follow the\nfollowing process:\n\n1. Your first response will be to ask me what the prompt should be about. I will provide my\nanswer, but we will need to improve it through continual iterations by going through the\nnext steps.\n\n2. Based on my input, you will generate 2 sections. a) Revised prompt (provide your\nrewritten prompt. it should be clear, concise, and easily understood by you), b) Questions\n(ask any relevant questions pertaining to what additional information is needed from me to\nimprove the prompt).\n\n3. We will continue this iterative process with me providing additional information to you\nand you updating the prompt in the Revised prompt section until I say we are done.",
+    "uid" : "4AC91CC2-2499-41FE-9F95-F2973D41B9EA",
+    "name" : "Prompt engineer",
+    "keyword" : "PE"
+  }
+}

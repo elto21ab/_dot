@@ -1,0 +1,39 @@
+{
+  "timestamps": {
+    "added": 1645515258,
+    "modified": 1679584966
+  },
+  "bundleIDs": [
+    "com.alfredapp.vitor.googledrive",
+    "com.alfredapp.googledrive"
+  ],
+  "name": "Google Drive",
+  "description": "List File Stream contents from Google Drive",
+  "codeType": "script",
+  "updatesFeed": {
+    "url": "https://github.com/alfredapp/google-drive-workflow/releases.atom",
+    "state": "W/\"8591273fde5ec69029c8c03bcd67c118\""
+  },
+  "links": {
+    "homepage": "https://github.com/alfredapp/google-drive-workflow/",
+    "bugReports": "https://github.com/alfredapp/google-drive-workflow/issues/",
+    "alfredForum": "https://www.alfredforum.com/topic/17318-google-drive"
+  },
+  "download": {
+    "latest": {
+      "version": "2023.6",
+      "url": "https://github.com/alfredapp/gallery-workflows/raw/808acc66237e3affb573a827267b4aed0906d529/workflows/alfredapp/google-drive.alfredworkflow",
+      "signature": "P73c7ZJHNzkuN6Ex4SFe3JfwjW4nIwJcvVNlXi6gXWQdp7m0qIwG2GkbrFJNBQOCWhspNBidbCvxz4ByWSaRGHQdWo2td+tlupR9yQJemSq3U7vh8PpGE10NdNJNllJukwN1cU6VyBemk5PiWHxN9+qoH42sAWwKKMRTNrCBGFLMmxJabTuCMEkLoc/DKWL8TpAO6Tes0skoX+dy6OznJhmhcv5GeqP4ws2RKayjigiUegDOiHlmRwwNXPIFuByc/t4a6dtXpLRPX2YrCuuXk1D+gx7/i//b2d5zqd1Nh1G3heweUGJlDd1U+73kzK/h6S6CSM7cX2C5xapUUNwirn/NPi766nIseBKmz2bvwOfC5dxr5oQetvJeRnqeEjCM11UyhJvYrP3Kvc5nX5o0AqSkXfgJIpA+gYbr0w5XtX8kWDuXceA7Q6tjbjEQA+48GBnplCfb9SyDGUwnPuGqbwKeQgdk+pN/1tGHT+bTZCdSOd3nu+TpHWLXVgotVUV+azvpKBa2QUk0qFo+rfOiuzwxN7JXTpzIIn/BSlX/ocFfdNRzkEatcV+Cqfv0iHErdTQxNgb1AwuPo5eGs7mUZb0jCyhoEx7iVgx3gnbkntxExXnl5HzB2OZKaZ+OYYs0b7ahBHmIGmVgoHhqQNzAdxGx0cu1eKAGyglXPb2E/ts="
+    }
+  },
+  "tags": [
+    "google-drive",
+    "file-management",
+    "web-service"
+  ],
+  "dependencies": {
+    "otherLanguages": [
+      "ruby"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "I have a problem related to [describe your problem area]. Could you brainstorm three distinct solutions? Please consider a variety of factors such as [Your perfect factors].",
+    "uid" : "C09B4C9E-016C-4CCA-8990-B8D35EA8D848",
+    "name" : "Tree of Thought - Step 1",
+    "keyword" : "TOT1"
+  }
+}
